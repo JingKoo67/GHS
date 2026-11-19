@@ -1,0 +1,11 @@
+# Pornhub AdBlock
+DOMAIN-SUFFIX,trafficjunky.net,REJECT
+DOMAIN-SUFFIX,exoclick.com,REJECT
+DOMAIN-SUFFIX,juicyads.com,REJECT
+DOMAIN-SUFFIX,tsyndicate.com,REJECT
+DOMAIN-SUFFIX,adnium.com,REJECT
+DOMAIN-SUFFIX, ero-advertising.com,REJECT
+DOMAIN-SUFFIX,adxpansion.com,REJECT
+DOMAIN-SUFFIX,propellerads.com,REJECT
+DOMAIN-SUFFIX,onclickperformance.com,REJECT
+DOMAIN-SUFFIX, doublepimp.com,REJECT
